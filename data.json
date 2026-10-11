@@ -1,0 +1,22 @@
+{
+  "interviews": {
+    "4b2a75c5-d181-45c5-8820-90cc67c15c2c": {
+      "candidateEmail": "wadhawantl@gmail.com",
+      "hrEmail": "taran.wadhawan03@gmail.com",
+      "jobTitle": "AI ML developer",
+      "companyName": "Nvidia",
+      "status": "pending",
+      "transcript": [],
+      "feedback": null,
+      "createdAt": "2025-07-18T15:29:59.970Z"
+    },
+    "109c0677-7369-4418-884d-91298babfc85": {
+      "candidateEmail": "wadhawantl@gmail.com",
+      "hrEmail": "taran.wadhawan03@gmail.com",
+      "jobTitle": "Full stack developer",
+      "companyName": "Google"
+    },
+    "ccb001b0-8f18-4a59-bab9-0b9602a2159a": {},
+    "f9b1db3a-0d5a-451f-9c7b-1d7449e1cd0f": {}
+  }
+}
